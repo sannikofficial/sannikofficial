@@ -14,15 +14,15 @@
 * Since 2024, I have been studying the profession of Data Science and Machine Learning Engineer at the MathsHub school;
 * I plan to do data science and machine learning for the rest of my life.
 
-**My interests:**
+**📊 My interests:**
 * I do Data Science for the soul;
 * Passionate about IT and technology;
 * I run my own blog about IT and business, on the topics:
-       * Programming;
-       * Analytics;
-       * Business management;
-       * Marketing;
-       * A little about self-development;
+  * Programming;
+  * Analytics;
+  * Business management;
+  * Marketing;
+  * A little about self-development;
 * Exploring artificial intelligence and creative ways to use it.
 
 <!-- Заменить на диаграмму из PA -->
