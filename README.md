@@ -1,8 +1,8 @@
+### 🧑‍💻 ML Data Scientist | Data Engineering & Analysis, Machine Learning
+---
 [![Репозиторий с проектами](https://github.com/sannikofficial/sannikofficial/blob/main/repository_with_projects_button.png)](https://github.com/sannikofficial/Portfolio-of-projects)
 [![Сертификаты и образование](https://github.com/sannikofficial/sannikofficial/blob/main/certificates_and_education_icon.png)](https://github.com/sannikofficial/Certificates-and-Education)
----
-# 🧑‍💻 ML Data Scientist
-## 🏗️ Data Engineering & Analysis, Machine Learning
+
 ### 👋 Hi there! 
 ### 🤝 My name is Evgenii, below is a short about me:
 
@@ -23,31 +23,11 @@
 
 ---
 ### Contact Information:
-<a href="https://sannikofficial.com">
-  <img src="https://github.com/sannikofficial/sannikofficial/blob/main/my_site_icon.png" width="30" height="30"/>
-</a>
-&nbsp;
-
-<a href="https://www.linkedin.com/in/sannikofficial">
-  <img src="https://github.com/sannikofficial/sannikofficial/blob/main/linkedin_icon.png" width="30" height="30"/>
-</a>
-&nbsp;
-
-<a href="https://www.kaggle.com/sannikofficial">
-  <img src="https://github.com/sannikofficial/sannikofficial/blob/main/kaggle_icon.png" width="30" height="30"/>
-</a>
-&nbsp;
-
-<a href="https://t.me/sannikofficial">
-  <img src="https://github.com/sannikofficial/sannikofficial/blob/main/telegram_icon.png" width="30" height="30"/>
-</a>
-&nbsp;
-
-<a href="https://www.instagram.com/sannikofficial">
-  <img src="https://github.com/sannikofficial/sannikofficial/blob/main/instagram_icon.png" width="30" height="30"/>
-</a>
-
-
+[![Репозиторий с проектами](https://github.com/sannikofficial/sannikofficial/blob/main/site_icon.png)](https://sannikofficial.com/)
+[![Репозиторий с проектами](https://github.com/sannikofficial/sannikofficial/blob/main/linkedin_icon.png)](https://www.linkedin.com/in/sannikofficial)
+[![Репозиторий с проектами](https://github.com/sannikofficial/sannikofficial/blob/main/kaggle_icon.png)](https://www.kaggle.com/sannikofficial)
+[![Репозиторий с проектами](https://github.com/sannikofficial/sannikofficial/blob/main/telegram_icon.png)](https://t.me/sannikofficial)
+[![Репозиторий с проектами](https://github.com/sannikofficial/sannikofficial/blob/main/instagram_icon.png)](https://www.instagram.com/sannikofficial)
 
 <!--
 **sannikofficial/sannikofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
