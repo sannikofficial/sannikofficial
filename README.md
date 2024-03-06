@@ -9,7 +9,8 @@
 **🚀 Curriculum vitae:**
 * Russian State Geological Exploration University: Engineer (specialist) for drilling oil and gas wells;
 * 8 years of experience in business and marketing;
-* Since 2019, I have independently immersed myself in Data Science, in the process of building departments in marketing;
+* Since 2019, he has been a customer and partially executor of a number of projects in the field of data science;
+* Since 2023, left marketing management and began to immerse himself in the profession of ML Data Science;
 * Since 2024, I have been studying the profession of Data Science and Machine Learning Engineer at the MathsHub school;
 
 <!-- 
