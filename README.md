@@ -1,12 +1,13 @@
-### Hi there 👋
+# 🧑‍💻 ML Data Scientist
+## 🏗️ Data Engineering, Data Analysis, Machine Learning
+### 👋 Hi there! 
+### 🤝 My name is Evgenii, below is a short about me:
 
-### 🤝 My name is Evgeniy, I am a Data Scientist, below is a short about me:
-
-**🚀 Curriculum vitae 🚀**
+**🚀 Curriculum vitae:**
 * Russian State Geological Exploration University: Engineer (specialist) for drilling oil and gas wells;
+* I have 8 years of experience in business and marketing;
 * Since 2019, I have independently immersed myself in Data Science, in the process of building departments in marketing;
 * Since 2024, I have been studying the profession of Data Science and Machine Learning Engineer at the MathsHub school;
-* In Data Science and Machine Learning, I specialize in business and marketing
 
 <!-- 
 **💡 Core competencies 💡** 
