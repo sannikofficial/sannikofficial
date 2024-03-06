@@ -13,13 +13,18 @@
 * Since 2023, left marketing management and began to immerse himself in the profession of ML Data Science;
 * Since 2024, I have been studying the profession of Data Science and Machine Learning Engineer at the MathsHub school;
 
-<!-- 
-**💡 Core competencies 💡** 
-| Программирование | Базы данных | Аналитика данных | Прочие навыки |
+
+<!-- Заменить на диаграмму из PA -->
+**💡 Core competencies:** 
+| Programming | Database | Data Analytics | Other skills |
 |:-------------:|:-------------:|:-------------:|:-------------:|
-| Python | Python | Python | Python |
-| Python | Python | Python | Python | 
--->
+| Python | SQL | Power BI | Linux |
+| Pandas | NoSQL | Tableau | Git |
+| Numpy | NewSQL | Looker | - |
+| Sklearn | Big Data | Pivot tables | - |
+| Seaborn | - | Excel | - |
+| Plotly | - | Sheets | - |
+| Matplotlib | - | - | - |
 
 ---
 ### Contact Information:
@@ -28,18 +33,3 @@
 [![Репозиторий с проектами](https://github.com/sannikofficial/sannikofficial/blob/main/kaggle_icon.png)](https://www.kaggle.com/sannikofficial)
 [![Репозиторий с проектами](https://github.com/sannikofficial/sannikofficial/blob/main/telegram_icon.png)](https://t.me/sannikofficial)
 [![Репозиторий с проектами](https://github.com/sannikofficial/sannikofficial/blob/main/instagram_icon.png)](https://www.instagram.com/sannikofficial)
-
-<!--
-**sannikofficial/sannikofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
