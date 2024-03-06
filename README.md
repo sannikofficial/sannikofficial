@@ -20,27 +20,27 @@
 ### Contact Information:
 
 <a href="https://sannikofficial.com">
-  <img src="https://github.com/sannikofficial/General-information/blob/main/Sannikofficial_icon.png" width="30" height="30"/>
+  <img src="https://github.com/sannikofficial/sannikofficial/blob/main/my_site_icon.png" width="30" height="30"/>
 </a>
 &nbsp; &nbsp
 
 <a href="https://www.linkedin.com/in/sannikofficial">
-  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="30" height="30"/>
+  <img src="https://github.com/sannikofficial/sannikofficial/blob/main/linkedin_icon.png" width="30" height="30"/>
 </a>
 &nbsp; &nbsp
 
 <a href="https://www.kaggle.com/sannikofficial">
-  <img src="https://github.com/sannikofficial/General-information/blob/main/kaggle.png" width="30" height="30"/>
+  <img src="https://github.com/sannikofficial/sannikofficial/blob/main/kaggle_icon.png" width="30" height="30"/>
 </a>
 &nbsp; &nbsp
 
 <a href="https://t.me/sannikofficial">
-  <img src="https://github.com/sannikofficial/General-information/blob/main/telegram.png" width="30" height="30"/>
+  <img src="https://github.com/sannikofficial/sannikofficial/blob/main/telegram_icon.png" width="30" height="30"/>
 </a>
 &nbsp; &nbsp
 
 <a href="https://www.instagram.com/sannikofficial">
-  <img src="https://github.com/sannikofficial/General-information/blob/main/instagram.png" width="30" height="30"/>
+  <img src="https://github.com/sannikofficial/sannikofficial/blob/main/instagram_icon.png" width="30" height="30"/>
 </a>
 
 
