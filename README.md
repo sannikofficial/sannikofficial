@@ -33,8 +33,6 @@
 </a>
 &nbsp; &nbsp
 
-[email@example.com](mailto:email@example.com)
-
 <a href="https://t.me/sannikofficial">
   <img src="https://github.com/sannikofficial/sannikofficial/blob/main/telegram_icon.png" width="30" height="30"/>
 </a>
