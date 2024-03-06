@@ -38,11 +38,6 @@
 </a>
 &nbsp; &nbsp
 
-<a href="(mailto:email@example.com)">
-  <img src="https://github.com/sannikofficial/sannikofficial/blob/main/gmail_icon.png" width="30" height="30"/>
-</a>
-&nbsp; &nbsp
-
 <a href="https://www.instagram.com/sannikofficial">
   <img src="https://github.com/sannikofficial/sannikofficial/blob/main/instagram_icon.png" width="30" height="30"/>
 </a>
