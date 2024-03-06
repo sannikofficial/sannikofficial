@@ -6,13 +6,24 @@
 ### 👋 Hi there! 
 ### 🤝 My name is Evgenii, below is a short about me:
 
-**🚀 Curriculum vitae:**
+**Curriculum vitae:**
 * Russian State Geological Exploration University: Engineer (specialist) for drilling oil and gas wells;
 * 8 years of experience in business and marketing;
 * Since 2019, he has been a customer and partially executor of a number of projects in the field of data science;
 * Since 2023, he left marketing management due to relocation and began to immerse himself in the profession of ML Data Science;
-* Since 2024, I have been studying the profession of Data Science and Machine Learning Engineer at the MathsHub school;
+* Since 2024, I have been studying the profession of Data Science and Machine Learning Engineer at the MathsHub school.
 
+
+**🚀 My interests:**
+* Passionate about IT and technology,
+* I do Data Science for the soul;
+* I run my own blog about IT and business, on the topics:
+    * Programming;
+    * Analytics;
+    * Business management;
+    * Marketing;
+    * Little about self-development;
+* Studying artificial intelligence and creative ways to use it.
 
 
 <!-- Заменить на диаграмму из PA -->
