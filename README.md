@@ -27,15 +27,10 @@
 
 <!-- Заменить на диаграмму из PA -->
 **💡 Core competencies:** 
-| Programming | Database | Data Analytics | Other skills |
-|:-------------:|:-------------:|:-------------:|:-------------:|
-| Python | SQL | Power BI | Linux |
-| Pandas | NoSQL | Tableau | Git |
-| Numpy | NewSQL | Looker | - |
-| Sklearn | Big Data | Pivot tables | - |
-| Seaborn | - | Excel | - |
-| Plotly | - | Sheets | - |
-| Matplotlib | - | - | - |
+* Programming:Python, Pandas, Numpy, Sklearn, Seaborn, Plotly, Matplotlib
+* Database: SQL, NoSQL, NewSQL, Big Data, Excel, Sheets, ,
+* Data Analytics: Power BI, Tableau, Looker, Pivot tables
+* Other skills: Linux, Git
 
 ---
 ### Contact Information:
