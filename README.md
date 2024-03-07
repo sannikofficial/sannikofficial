@@ -13,7 +13,7 @@
 * Since 2019, he has been a customer and partially executor of a number of projects in the field of data science;
 * Since 2023, he left marketing management due to relocation and began to immerse himself in the profession of ML Data Science;
 * Since 2024, I have been studying the profession of Data Science and Machine Learning Engineer at the MathsHub school;
-* I plan to do data science and machine learning for the rest of my life.
+* I plan to study data science and machine learning for the rest of my life.
 
 **📊 My interests:**
 * I do Data Science for the soul;
