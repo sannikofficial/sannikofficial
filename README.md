@@ -1,4 +1,6 @@
-### 🧑‍💻 ML Data Scientist | Data Engineering & Analysis, Machine Learning
+# 👷 ML Data Scientist | Business & Marketing
+## 🧑‍💻 Programming · Data Engineering · Big Data · Analysis · Machine Learning
+### 🤖 Ai · ML · NN · DL · NLP · CV
 ---
 [![Portfolio of projects](https://github.com/sannikofficial/sannikofficial/blob/main/repository_with_projects_button.png)](https://github.com/sannikofficial/Portfolio-of-projects)
 [![Certificates and Education](https://github.com/sannikofficial/sannikofficial/blob/main/certificates_and_education_icon.png)](https://github.com/sannikofficial/Certificates-and-Education)
