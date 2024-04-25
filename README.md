@@ -20,11 +20,7 @@
 * • Personal professional blog - about self-development, business, marketing, and Data Science.
 
 <!-- Заменить на диаграмму из PA -->
-**💡 Core competencies:** 
-* Programming:Python, Pandas, Numpy, Sklearn, Seaborn, Plotly, Matplotlib
-* Database: SQL, NoSQL, NewSQL, Big Data, Excel, Sheets, ,
-* Data Analytics: Power BI, Tableau, Looker, Pivot tables
-* Other skills: Linux, Git
+**Key skills: computer science, Python, SQL, Azure, Databricks, data engineering, Big Data, data analytics, BI, Data Science, machine learning engineering, AI, ER, Agile, research, coaching, scalability, programming, consulting, econometrics, TensorFlow, Git, Docker, Tableau.** 
 
 ---
 ### Contact Information:
