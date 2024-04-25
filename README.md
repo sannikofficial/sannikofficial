@@ -2,7 +2,7 @@
 [![Certificates and Education](https://github.com/sannikofficial/sannikofficial/blob/main/certificates_and_education_icon.png)](https://github.com/sannikofficial/Certificates-and-Education)
 # Data Scientist
 ## Business & Marketing
-##№ Data Engineering & Analytics, Machine Learning Engineering & AI
+### Data Engineering & Analytics, Machine Learning Engineering & AI
 ---
 ### 👋 Hi there! 
 ### 🤝 My name is Evgenii, below is a short about me:
