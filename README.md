@@ -7,9 +7,9 @@
 ### 👋 Hello! Thank you for your interest in my resume. My name is Evgenii, and I am a Data scientist and machine learning engineer with experience in business management (10 years) and marketing (8 years). Since 2019, I have been actively involved in data analysis and compiling various analytical reports. Since 2023, I have fully transitioned into the field of Data Science, studying and developing with a focus on AI. I want to dedicate the remainder of my career to this field, with a focus on industry trends and tendencies. Below is a brief overview of my experience:
 
 **I. Education:**
-*• Higher: Engineer in drilling oil and gas wells.
-*• Additional: ML Engineer.
-*• Specialization: business and marketing.
+* • Higher: Engineer in drilling oil and gas wells.
+* • Additional: ML Engineer.
+* • Specialization: business and marketing.
 
 **📊 My interests:**
 * I do Data Science for the soul;
