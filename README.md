@@ -11,16 +11,13 @@
 * • Additional: ML Engineer.
 * • Specialization: business and marketing.
 
-**📊 My interests:**
-* I do Data Science for the soul;
-* Passionate about IT and technology;
-* I run my own blog about IT and business, on the topics:
-  * Programming;
-  * Analytics;
-  * Business management;
-  * Marketing;
-  * A little about self-development;
-* Exploring artificial intelligence and creative ways to use it.
+**II. Projects:**
+* • Analytics of departments and business - from financial indicators to workload per employee.
+* • Advertising campaign analytics - from planned data to forecast data.
+* • Real estate market analytics - from target data to macro indicators.
+* • Personal analytics - covering all aspects of an individual's life and coaching from AI.
+* • Job market analytics - with all indicators and NLP analysis.
+* • Personal professional blog - about self-development, business, marketing, and Data Science.
 
 <!-- Заменить на диаграмму из PA -->
 **💡 Core competencies:** 
