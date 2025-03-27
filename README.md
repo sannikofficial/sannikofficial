@@ -1,5 +1,7 @@
 [![Portfolio of projects](https://github.com/sannikofficial/sannikofficial/blob/main/repository_with_projects_button.png)](https://github.com/sannikofficial/Portfolio-of-projects)
 [![Certificates and Education](https://github.com/sannikofficial/sannikofficial/blob/main/certificates_and_education_icon.png)](https://github.com/sannikofficial/Certificates-and-Education)
+[![My site](https://github.com/sannikofficial/sannikofficial/blob/main/site_icon.png)](https://sannikofficial.com/)
+[![LinkedIn](https://github.com/sannikofficial/sannikofficial/blob/main/linkedin_icon.png)](https://www.linkedin.com/in/sannikofficial)
 # Data Scientist
 ## Business & Marketing
 ### Data Engineering & Analytics, Machine Learning Engineering & AI
@@ -20,12 +22,4 @@
 * Personal professional blog - about self-development, business, marketing, and Data Science.
 
 <!-- Заменить на диаграмму из PA -->
-**Key skills: computer science, Python, SQL, Azure, Databricks, data engineering, Big Data, data analytics, BI, Data Science, machine learning engineering, AI, ER, Agile, research, coaching, scalability, programming, consulting, econometrics, TensorFlow, Git, Docker, Tableau.** 
-
----
-### Contact Information:
-[![My site](https://github.com/sannikofficial/sannikofficial/blob/main/site_icon.png)](https://sannikofficial.com/)
-[![LinkedIn](https://github.com/sannikofficial/sannikofficial/blob/main/linkedin_icon.png)](https://www.linkedin.com/in/sannikofficial)
-[![Kaggle](https://github.com/sannikofficial/sannikofficial/blob/main/kaggle_icon.png)](https://www.kaggle.com/sannikofficial)
-[![Telegram](https://github.com/sannikofficial/sannikofficial/blob/main/telegram_icon.png)](https://t.me/sannikofficial)
-[![Instagram](https://github.com/sannikofficial/sannikofficial/blob/main/instagram_icon.png)](https://www.instagram.com/sannikofficial)
+**Key skills: computer science, Python, SQL, Azure, Databricks, data engineering, Big Data, data analytics, BI, Data Science, machine learning engineering, AI, ER, Agile, research, coaching, scalability, programming, consulting, econometrics, TensorFlow, Git, Docker, Tableau.**
