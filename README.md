@@ -1,6 +1,6 @@
+[![My site](https://github.com/sannikofficial/sannikofficial/blob/main/site_icon.png)]([https://sannikofficial.com/](https://sannikofficial.com/experience/))
 [![Portfolio of projects](https://github.com/sannikofficial/sannikofficial/blob/main/repository_with_projects_button.png)](https://github.com/sannikofficial/Portfolio-of-projects)
 [![Certificates and Education](https://github.com/sannikofficial/sannikofficial/blob/main/certificates_and_education_icon.png)](https://github.com/sannikofficial/Certificates-and-Education)
-[![My site](https://github.com/sannikofficial/sannikofficial/blob/main/site_icon.png)](https://sannikofficial.com/)
 [![LinkedIn](https://github.com/sannikofficial/sannikofficial/blob/main/linkedin_icon.png)](https://www.linkedin.com/in/sannikofficial)
 # Data Scientist
 ## Business & Marketing
