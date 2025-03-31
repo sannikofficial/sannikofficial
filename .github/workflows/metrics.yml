@@ -22,9 +22,4 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
 
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 30
-          plugin_wakatime_sections: time, languages, editors
-
           plugin_repositories: yes
