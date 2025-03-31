@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  metrics:
+  metrics-full:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -23,3 +23,28 @@ jobs:
           plugin_languages_indepth: yes
 
           plugin_repositories: yes
+
+  metrics-languages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+
+  metrics-languages-indepth:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+          plugin_languages_indepth: yes
