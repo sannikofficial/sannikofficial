@@ -5,22 +5,17 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/sannikofficial?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/sannikofficial?label=Stars&style=social" />
-  <img src="https://img.shields.io/badge/Repos-20-blue" />
+  <a href="https://sannikofficial.com/experience/">
+    <img src="https://img.shields.io/badge/📊 MY SKILLS | VIEW CHARTS-8800ff?style=for-the-badge&logo=bar-chart&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/github/followers/sannikofficial?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=8800ff" />
+  <img src="https://img.shields.io/github/stars/sannikofficial?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=8800ff" />
+  <img src="https://img.shields.io/badge/Repos-20-8800ff?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=sannikofficial&label=Profile%20views&color=8800ff&style=for-the-badge" />
 </p>
 
-<p align="left">
-  <a href="https://sannikofficial.com/experience/">
-    <img src="https://img.shields.io/badge/🌐 Сайт-sannikofficial.com-blueviolet?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/sannikofficial/Portfolio-of-projects">
-    <img src="https://img.shields.io/badge/📁 Проекты-Portfolio-informational?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/sannikofficial/Certificates-and-Education">
-    <img src="https://img.shields.io/badge/🎓 Образование-Certificates-success?style=for-the-badge" />
-  </a>
-</p>
+
+
 
 ---
 
