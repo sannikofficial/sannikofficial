@@ -4,6 +4,7 @@
 [![LinkedIn](https://github.com/sannikofficial/sannikofficial/blob/main/linkedin_icon.png)](https://www.linkedin.com/in/sannikofficial)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannikofficial&layout=compact)
 
 
 # Data Scientist
