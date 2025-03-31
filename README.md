@@ -146,8 +146,6 @@
   <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.wakatime.svg" />
 </p>
 
-
-
 ---
 
 ### 📈 GitHub Статистика
