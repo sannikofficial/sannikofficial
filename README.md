@@ -139,6 +139,10 @@
 ### 📈 GitHub Статистика
 
 <p align="left">
+  <img src="./metrics.plugin.full.svg" />
+</p>
+
+<p align="left">
   <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.svg" />
   <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.indepth.svg" />
   <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.wakatime.svg" />
