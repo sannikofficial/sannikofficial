@@ -139,10 +139,7 @@
 ### 📈 GitHub Статистика
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikofficial&layout=compact&theme=tokyonight" />
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.svg" />
-    <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.indepth.svg" />
-  </p>
+  <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.svg" />
 </p>
 
 <p align="left">
