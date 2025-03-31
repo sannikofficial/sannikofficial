@@ -1,9 +1,9 @@
 <p align="right">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/Русский язык-8800ff?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="README.en.md">
-    <img src="https://img.shields.io/badge/Eng version-007acc?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/English version-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  </a>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/ Версия на русском языке-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
   </a>
 </p>
 
