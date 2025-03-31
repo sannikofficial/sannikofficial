@@ -151,8 +151,6 @@
   </tr>
 </table>
 
----
-
 ### 📊 График активности
 <p align="left">
   <img src="https://github-activity-graph.vercel.app/graph?username=sannikofficial&theme=tokyo-night" />
