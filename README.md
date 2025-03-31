@@ -1,18 +1,16 @@
 <h1 align="left">Привет! Я — Евгений (sannikofficial) 👋</h1>
 
 <p align="left">
-  <a href="https://sannikofficial.com/experience/">
-    <img src="https://img.shields.io/badge/📊 MY SKILLS | VIEW CHARTS-8800ff?style=for-the-badge&logo=bar-chart&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Repos-20-8800ff?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/sannikofficial?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=8800ff" />
-  <img src="https://komarev.com/ghpvc/?username=sannikofficial&label=Profile%20views&color=8800ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/sannikofficial?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=8800ff" />
-</p>
-
-<p align="left">
   🔬 Data Scientist • 📊 Аналитик • 🤖 AI-инженер • 🌍 Путешественник
 </p>
+
+<table>
+  <tr>
+    <td>
+      <b>💬 Всегда рад коллаборациям и интересным проектам. Добавляйтесь, форкайте, пишите!</b>
+    </td>
+  </tr>
+</table>
 
 ### 🚀 Обо мне
 - 🧠 Специализация: AI, Machine Learning, Big Data, Data Science  
@@ -27,9 +25,17 @@
 - ✈️ Геоаналитика и тревел-дэшборды  
 - 📈 Мониторинг прогресса в навыках и карьере  
 
-> 🔗 Всегда рад коллаборациям и интересным проектам. Добавляйтесь, форкайте, пишите!
-
 ---
+
+<p align="left">
+  <a href="https://sannikofficial.com/experience/">
+    <img src="https://img.shields.io/badge/📊 MY SKILLS | VIEW CHARTS-8800ff?style=for-the-badge&logo=bar-chart&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Repos-20-8800ff?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/sannikofficial?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=8800ff" />
+  <img src="https://komarev.com/ghpvc/?username=sannikofficial&label=Profile%20views&color=8800ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/sannikofficial?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=8800ff" />
+</p>
 
 ### 🛠 Мои инструменты
 
