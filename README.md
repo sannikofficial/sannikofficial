@@ -142,7 +142,6 @@
     <td width="50%">
       <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.svg" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikofficial&layout=compact&theme=tokyonight" />
-      <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.pie.svg" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sannikofficial&theme=tokyonight" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&theme=tokyonight" width="100%"/>
     </td>
