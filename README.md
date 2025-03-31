@@ -146,11 +146,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sannikofficial&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
