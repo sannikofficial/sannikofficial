@@ -1,18 +1,16 @@
-<h1 align="center">Привет! Я — Евгений (sannikofficial) 👋</h1>
+<h1 align="left">Привет! Я — Евгений (sannikofficial) 👋</h1>
 
-<p align="center">
+<p align="left">
   🔬 Data Scientist • 📊 Аналитик • 🤖 AI-инженер • 🌍 Путешественник
 </p>
 
-<br/>
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/github/followers/sannikofficial?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/sannikofficial?label=Stars&style=social" />
   <img src="https://img.shields.io/badge/Repos-20-blue" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://sannikofficial.com/experience/">
     <img src="https://img.shields.io/badge/🌐 Сайт-sannikofficial.com-blueviolet?style=for-the-badge" />
   </a>
@@ -36,16 +34,15 @@
 ---
 
 ### 📈 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikofficial&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sannikofficial&theme=tokyonight" />
 </p>
 
@@ -53,7 +50,7 @@
 
 ### 📊 График активности
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sannikofficial&theme=tokyo-night" />
 </p>
 
@@ -61,7 +58,7 @@
 
 ### 🏆 Достижения GitHub
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sannikofficial&theme=algolia&no-bg=true" />
 </p>
 
