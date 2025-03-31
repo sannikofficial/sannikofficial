@@ -136,6 +136,16 @@
   </tr>
 </table>
 
+---
+
+### 📊 Метрики GitHub (auto SVG)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.svg" />
+  <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.indepth.svg" />
+  <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.wakatime.svg" />
+</p>
+
 
 
 ---
