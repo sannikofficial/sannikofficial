@@ -138,17 +138,14 @@
 
 ---
 
-### 📊 Метрики GitHub (auto SVG)
+### 📈 GitHub Статистика
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.svg" />
   <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.indepth.svg" />
   <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.wakatime.svg" />
 </p>
 
----
-
-### 📈 GitHub Статистика
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikofficial&layout=compact&theme=tokyonight" />
 </p>
