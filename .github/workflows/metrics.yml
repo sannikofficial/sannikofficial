@@ -1,0 +1,30 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 8 * * *"  # обновляется каждый день в 8:00 UTC
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          base: header, activity, community, repositories, metadata
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_indepth: yes
+
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_days: 30
+          plugin_wakatime_sections: time, languages, editors
+
+          plugin_repositories: yes
