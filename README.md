@@ -7,9 +7,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/sannikofficial?label=Подписчики&style=social" />
-  <img src="https://img.shields.io/github/stars/sannikofficial?style=social" />
-  <img src="https://img.shields.io/badge/Репозиториев-20-blue" />
+  <img src="https://img.shields.io/github/followers/sannikofficial?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/sannikofficial?label=Stars&style=social" />
+  <img src="https://img.shields.io/badge/Repos-20-blue" />
 </p>
 
 <p align="center">
