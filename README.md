@@ -17,14 +17,14 @@
 ---
 
 ### 🚀 Обо мне
-
 - 🧠 Специализация: AI, Machine Learning, Big Data, Data Science  
 - 🛠 Разрабатываю персональные и бизнес-аналитические инструменты  
 - 🧾 Веду проекты по анализу навыков, финансов, рынка труда и путешествий  
 - 🌐 Личный сайт с инструментами и отчетами: **[sannikofficial.com](https://sannikofficial.com)**
 
-### 📍 Интересные направления
+---
 
+### 📍 Интересные направления
 - 📡 Автоматизация аналитики  
 - 📊 Визуализация данных  
 - 💬 Нейросети и LLM-интерфейсы  
@@ -52,7 +52,6 @@
 ---
 
 ### 📊 График активности
-
 <p align="left">
   <img src="https://github-activity-graph.vercel.app/graph?username=sannikofficial&theme=tokyo-night" />
 </p>
@@ -60,11 +59,6 @@
 ---
 
 ### 🏆 Достижения GitHub
-
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sannikofficial&theme=algolia&no-bg=true" />
 </p>
-
----
-
-
