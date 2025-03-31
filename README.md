@@ -149,25 +149,25 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.svg" />
+      <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.svg" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikofficial&layout=compact&theme=tokyonight" width="100%" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sannikofficial&theme=tokyonight" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&theme=tokyonight" width="100%"/>
     </td>
     <td width="50%">
-      <img src="./metrics.plugin.full.svg" />
+      <img src="./metrics.plugin.full.svg" width="100%"/>
     </td>
   </tr>
 </table>
 
 ### 📊 График активности
 <p align="left">
-  <img src="https://github-activity-graph.vercel.app/graph?username=sannikofficial&theme=tokyo-night" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=sannikofficial&theme=tokyo-night" width="100%"/>
 </p>
 
 ---
 
 ### 🏆 Достижения GitHub
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sannikofficial&theme=algolia&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sannikofficial&theme=algolia&no-bg=true" width="100%"/>
 </p>
