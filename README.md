@@ -2,6 +2,10 @@
 [![Portfolio of projects](https://github.com/sannikofficial/sannikofficial/blob/main/repository_with_projects_button.png)](https://github.com/sannikofficial/Portfolio-of-projects)
 [![Certificates and Education](https://github.com/sannikofficial/sannikofficial/blob/main/certificates_and_education_icon.png)](https://github.com/sannikofficial/Certificates-and-Education)
 [![LinkedIn](https://github.com/sannikofficial/sannikofficial/blob/main/linkedin_icon.png)](https://www.linkedin.com/in/sannikofficial)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=default)
+
+
 # Data Scientist
 ## Business & Marketing
 ### Data Engineering & Analytics, Machine Learning Engineering & AI
