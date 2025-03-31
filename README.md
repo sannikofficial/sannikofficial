@@ -2,6 +2,9 @@
   <a href="./README.md">
     <img src="https://img.shields.io/badge/Русский язык-8800ff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="README.en.md">
+    <img src="https://img.shields.io/badge/Eng version-007acc?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <h1 align="left">Привет! Я — Евгений (sannikofficial) 👋</h1>
