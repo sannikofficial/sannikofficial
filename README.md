@@ -51,7 +51,11 @@
 ### 📊 График активности
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sannikofficial&theme=tokyo-night" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=sannikofficial&theme=tokyo-night" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </p>
 
 ---
