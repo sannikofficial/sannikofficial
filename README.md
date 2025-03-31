@@ -3,31 +3,47 @@
 [![Certificates and Education](https://github.com/sannikofficial/sannikofficial/blob/main/certificates_and_education_icon.png)](https://github.com/sannikofficial/Certificates-and-Education)
 
 
-📊 **GitHub Stats:**
+<h1 align="center">Привет! Я — Евгений (sannikofficial) 👋</h1>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=alexusername&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexusername&layout=compact)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexusername)
+<p align="center">
+🔬 Data Scientist • 📊 Аналитик • 🤖 AI-инженер • 🌍 Путешественник
+</p>
 
-
-# Data Scientist
-## Business & Marketing
-### Data Engineering & Analytics, Machine Learning Engineering & AI
 ---
-### 👋 Hello! Thank you for your interest in my resume. My name is Evgenii, and I am a Data scientist and machine learning engineer with experience in business management (10 years) and marketing (8 years). Since 2019, I have been actively involved in data analysis and compiling various analytical reports. Since 2023, I have fully transitioned into the field of Data Science, studying and developing with a focus on AI. I want to dedicate the remainder of my career to this field, with a focus on industry trends and tendencies. Below is a brief overview of my experience:
 
-**I. Education:**
-* Higher: Engineer in drilling oil and gas wells.
-* Additional: ML Engineer.
-* Specialization: business and marketing.
+### 🚀 Обо мне
 
-**II. Projects:**
-* Analytics of departments and business - from financial indicators to workload per employee.
-* Advertising campaign analytics - from planned data to forecast data.
-* Real estate market analytics - from target data to macro indicators.
-* Personal analytics - covering all aspects of an individual's life and coaching from AI.
-* Job market analytics - with all indicators and NLP analysis.
-* Personal professional blog - about self-development, business, marketing, and Data Science.
+- 🧠 Специализация: AI, Machine Learning, Big Data, Data Science
+- 🛠 Разрабатываю персональные и бизнес-аналитические инструменты
+- 🧾 Веду проекты по анализу навыков, финансов, рынка труда и путешествий
+- 🌐 Личный сайт с инструментами и отчетами: **[sannik.dev](https://sannik.dev)** (если есть — добавь!)
 
-<!-- Заменить на диаграмму из PA -->
-**Key skills: computer science, Python, SQL, Azure, Databricks, data engineering, Big Data, data analytics, BI, Data Science, machine learning engineering, AI, ER, Agile, research, coaching, scalability, programming, consulting, econometrics, TensorFlow, Git, Docker, Tableau.**
+---
+
+### 📈 GitHub Статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannikofficial&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sannikofficial&theme=tokyonight)
+
+---
+
+### 🏆 Достижения GitHub
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=sannikofficial&theme=algolia&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📍 Интересные направления
+
+- 📡 Автоматизация аналитики
+- 📊 Визуализация данных
+- 💬 Нейросети и LLM-интерфейсы
+- ✈️ Геоаналитика и тревел-дэшборды
+- 📈 Мониторинг прогресса в навыках и карьере
+
+---
+
+> 🔗 Всегда рад коллаборациям и интересным проектам. Добавляйтесь, форкайте, пишите!
