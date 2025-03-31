@@ -137,21 +137,19 @@
 ---
 
 ### 📈 GitHub Статистика
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikofficial&layout=compact&theme=tokyonight" />
-  <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.svg" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sannikofficial&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-<p align="left">
-  <img src="./metrics.plugin.full.svg" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.svg" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikofficial&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sannikofficial&theme=tokyonight" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&theme=tokyonight" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="./metrics.plugin.full.svg" />
+    </td>
+  </tr>
+</table>
 
 ---
 
