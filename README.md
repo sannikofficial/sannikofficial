@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Рус версия-8800ff?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 <h1 align="left">Привет! Я — Евгений (sannikofficial) 👋</h1>
 
 <p align="left">
