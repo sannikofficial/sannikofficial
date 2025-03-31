@@ -2,49 +2,40 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 8 * * *"  # обновляется каждый день в 8:00 UTC
+    - cron: "0 8 * * *"  # Ежедневное обновление
   workflow_dispatch:
 
 jobs:
-  metrics-full:
+  metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Общие настройки
           base: header, activity, community, repositories, metadata
 
+          # Основной график
+          filename: metrics.plugin.full.svg
+
+          # Языки — круговая диаграмма
           plugin_languages: yes
           plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_analysis_timeout: 30
+          plugin_languages_categories: programming, markup
+          plugin_languages_threshold: 0%
           plugin_languages_indepth: yes
 
-          plugin_repositories: yes
-
-  metrics-languages:
-    runs-on: ubuntu-latest
-    steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
+          filename: metrics.plugin.languages.pie.svg
 
-  metrics-languages-indepth:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.languages.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_sections: distribution
           plugin_languages_limit: 8
-          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
