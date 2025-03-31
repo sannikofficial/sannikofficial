@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="left">Привет! Я — Евгений (sannikofficial) 👋</h1>
+<h1 align="left">👋 Привет! Я — Евгений (sannikofficial)</h1>
 
 <p align="left">
   🔬 Data Scientist • 📊 Аналитик • 🤖 AI-инженер • 🌍 Путешественник
