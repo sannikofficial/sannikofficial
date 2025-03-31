@@ -1,6 +1,6 @@
 <p align="right">
   <a href="./README.md">
-    <img src="https://img.shields.io/badge/Рус версия-8800ff?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Русский язык-8800ff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
