@@ -170,3 +170,22 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sannikofficial&theme=algolia&no-bg=true" />
 </p>
+
+---
+
+### 📈 GitHub Статистика
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikofficial&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sannikofficial&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&theme=tokyonight" />
+</p>
+
+### 📊 Графики по языкам
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.svg" />
+  <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.indepth.svg" />
+</p>
