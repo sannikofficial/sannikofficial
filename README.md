@@ -31,7 +31,7 @@
 ---
 
 <p align="left">
-  <a href="https://sannikofficial.com/experience/">
+  <a href="https://sannikofficial.com/github-experience">
     <img src="https://img.shields.io/badge/📊 MY SKILLS | VIEW CHARTS-8800ff?style=for-the-badge&logo=bar-chart&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Repos-20-8800ff?style=for-the-badge&logo=code&logoColor=white" />
