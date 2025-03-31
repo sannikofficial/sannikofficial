@@ -1,10 +1,13 @@
 [![My site](https://github.com/sannikofficial/sannikofficial/blob/main/site_icon.png)]([https://sannikofficial.com/](https://sannikofficial.com/experience/))
 [![Portfolio of projects](https://github.com/sannikofficial/sannikofficial/blob/main/repository_with_projects_button.png)](https://github.com/sannikofficial/Portfolio-of-projects)
 [![Certificates and Education](https://github.com/sannikofficial/sannikofficial/blob/main/certificates_and_education_icon.png)](https://github.com/sannikofficial/Certificates-and-Education)
-[![LinkedIn](https://github.com/sannikofficial/sannikofficial/blob/main/linkedin_icon.png)](https://www.linkedin.com/in/sannikofficial)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannikofficial&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannikofficial&layout=compact)
+
+📊 **GitHub Stats:**
+
+![Stats](https://github-readme-stats.vercel.app/api?username=alexusername&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexusername&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alexusername)
 
 
 # Data Scientist
