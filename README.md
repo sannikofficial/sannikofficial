@@ -1,5 +1,8 @@
 <p align="right">
   <a href="README.md">
+    <img src="https://img.shields.io/badge/Copy-ff00b7?style=for-the-badge&logo=files&logoColor=white" />
+  </a>
+  <a href="README.md">
     <img src="https://img.shields.io/badge/English version-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
   </a>
   <a href="README.ru.md">
