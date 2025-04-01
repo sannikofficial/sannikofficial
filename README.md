@@ -32,7 +32,7 @@
 
 <p align="left">
   <a href="https://sannikofficial.com/github-experience">
-    <img src="https://img.shields.io/badge/📊 MY SKILLS | VIEW CHARTS-8800ff?style=for-the-badge&logo=bar-chart&logoColor=white" />
+    <img src="https://img.shields.io/badge/📊 MY SKILLS CHARTS-8800ff?style=for-the-badge&logo=bar-chart&logoColor=white" />
   </a>
   <a href="https://sannikofficial.com/github-solutions">
     <img src="https://img.shields.io/badge/🏗️ MY PROJECTS-8800ff?style=for-the-badge&logo=bar-chart&logoColor=white" />
