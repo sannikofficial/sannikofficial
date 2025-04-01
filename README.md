@@ -1,14 +1,15 @@
 <p align="right">
-  <a href="README.md">
+  <a href="http://sannikofficial.com/">
     <img src="https://img.shields.io/badge/Copy-ff00b7?style=for-the-badge&logo=files&logoColor=white" />
   </a>
   <a href="README.md">
     <img src="https://img.shields.io/badge/English version-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
   </a>
   <a href="README.ru.md">
-    <img src="https://img.shields.io/badge/Версия на русском языке-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
+    <img src="https://img.shields.io/badge/Русский язык-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
   </a>
 </p>
+
 
 <h1 align="left">👋 Привет! Я - Евгений</h1>
 
