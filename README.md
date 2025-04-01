@@ -32,10 +32,10 @@
 
 <p align="left">
   <a href="https://sannikofficial.com/github-experience">
-    <img src="https://img.shields.io/badge/📊MY SKILLS CHARTS-8800ff?style=for-the-badge&logo=bar-chart&logoColor=white" />
+    <img src="https://img.shields.io/badge/📊 MY SKILLS-8800ff?style=for-the-badge&logo=bar-chart&logoColor=white" />
   </a>
   <a href="https://sannikofficial.com/github-solutions">
-    <img src="https://img.shields.io/badge/🏗️MY PROJECTS-8800ff?style=for-the-badge&logo=bar-chart&logoColor=white" />
+    <img src="https://img.shields.io/badge/🏗️ MY PROJECTS-8800ff?style=for-the-badge&logo=bar-chart&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Repos-20-8800ff?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/github/followers/sannikofficial?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=8800ff" />
