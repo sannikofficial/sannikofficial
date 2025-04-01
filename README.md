@@ -6,38 +6,37 @@
     <img src="https://img.shields.io/badge/English version-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
   </a>
   <a href="README.ru.md">
-    <img src="https://img.shields.io/badge/Русский язык-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
+    <img src="https://img.shields.io/badge/Russian version-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
   </a>
 </p>
 
-
-<h1 align="left">👋 Привет! Я - Евгений</h1>
+<h1 align="left">👋 Hi! I'm Evgeny</h1>
 
 <p align="left">
-  🔬 Data Scientist • 📊 Аналитик-архитектор • 🤖 AI-инженер • 🌍 Путешественник • 🧭 Стратег данных будущего
+  🔬 Data Scientist • 📊 Analytics Architect • 🤖 AI Engineer • 🌍 Traveler • 🧭 Data Strategist of the Future
 </p>
 
-### 🚀 Обо мне
-- 🧠 Специализация: AI, Machine Learning, Big Data, Data Science, LLM-интерфейсы  
-- 🛠 Разрабатываю умные аналитические системы — от персональных дэшбордов до автономных бизнес-инструментов
-- 📊 Строю экосистемы: от данных — до решений, от идей — до дашбордов
-- 🌐 Личный сайт с инструментами и кейсами: **[sannikofficial.com](https://sannikofficial.com/github-profile)**
-- 🧭 Моя цель — делать сложные данные понятными, а ИИ — доступным, прозрачным и полезным для человека.
+### 🚀 About Me
+- 🧠 Specialization: AI, Machine Learning, Big Data, Data Science, LLM Interfaces  
+- 🛠 I build intelligent analytical systems — from personal dashboards to autonomous business tools  
+- 📊 I design ecosystems: from data → to decisions, from ideas → to dashboards  
+- 🌐 Personal site with tools and case studies: **[sannikofficial.com](https://sannikofficial.com/github-profile)**  
+- 🧭 My goal — to make complex data understandable, and AI — accessible, transparent, and human-friendly.
 
-### 📍 Ключевые направления
-- 🤖 LLM-интеграции и AI-агенты — проектирую интерактивные нейроинтерфейсы и агентные пайплайны
-- 📈 Автоматизация аналитики — создаю self-updating дашборды и career/digital life trackers
-- 🌐 Геоаналитика — строю тревел-дэшборды, визуализирую перемещения и культурные маршруты
-- 🧬 Explainable & Ethical AI — применяю SHAP, LIME, Fairlearn для прозрачных моделей
-- 📡 Low-code AI-решения — делаю аналитику доступной: от Streamlit до Gradio
-- 🛡 Честный и открытый ИИ — использую open data, документирую модели, думаю об этике
+### 📍 Focus Areas
+- 🤖 LLM integrations and AI agents — designing interactive neural interfaces and agent pipelines
+- 📈 Analytics automation — creating self-updating dashboards and career/digital life trackers
+- 🌐 Geoanalytics — building travel dashboards, visualizing movements and cultural paths
+- 🧬 Explainable & Ethical AI — using SHAP, LIME, Fairlearn for transparent models
+- 📡 Low-code AI solutions — democratizing analytics: from Streamlit to Gradio
+- 🛡 Honest & open AI — leveraging open data, documenting models, and focusing on ethics
 
-### 🌱 Что ценю
-- 💬 Открыт к коллаборациям и совместным проектам
-- 🚀 Люблю делиться знаниями, создавать open source-решения и исследовать новые направления
-- 📈 Верю в силу метааналитики: отслеживание навыков, прогресса и карьерных векторов
+### 🌱 What I Value
+- 💬 Open to collaborations and joint projects
+- 🚀 Love sharing knowledge, building open source solutions, and exploring new directions
+- 📈 Believe in the power of meta-analytics: tracking skills, growth, and career vectors
 
-*💬 Добавляйтесь, форкайте, пишите — всегда рад новым идеям и партнёрствам!*
+*💬 Let's connect, fork, or chat — I'm always open to new ideas and partnerships!*
 
 ---
 
@@ -56,11 +55,11 @@
 
 ---
 
-### ⚙️ Мой стек
+### ⚙️ My stack
 
 <table>
   <tr>
-    <td><b>🐍 Языки и среды</b></td>
+    <td><b>🐍 Languages ​​and IDEs</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -83,7 +82,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>📈 Визуализация</b></td>
+    <td><b>📈 Visualization</b></td>
     <td>
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
       <img src="https://img.shields.io/badge/Seaborn-00CED1?style=for-the-badge&logoColor=white" />
@@ -94,7 +93,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>🧱 Базы данных</b></td>
+    <td><b>🧱 Datadases</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -103,7 +102,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>⚙️ ETL и оркестрация</b></td>
+    <td><b>⚙️ ETL and orchestration</b></td>
     <td>
       <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
       <img src="https://img.shields.io/badge/Prefect-1A1A1A?style=for-the-badge&logoColor=white" />
@@ -114,7 +113,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>☁️ Облака и Big Data</b></td>
+    <td><b>☁️ Clouds and Big Data</b></td>
     <td>
       <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -122,7 +121,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>🚀 Деплой и API</b></td>
+    <td><b>🚀 Deployment and API</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -140,7 +139,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>🔮 LLM и AI-интеграции</b></td>
+    <td><b>🔮 LLM and AI Integrations</b></td>
     <td>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -164,7 +163,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>🔧 Контроль версий</b></td>
+    <td><b>🔧 Version control</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -174,7 +173,7 @@
 
 ---
 
-### 📈 GitHub Статистика
+### 📈 GitHub Statistics
 <table width="100%">
   <tr>
     <td width="50%">
@@ -189,7 +188,7 @@
   </tr>
 </table>
 
-### 📊 График активности
+### 📊 Activity schedule
 <p align="left">
   <img src="https://github-activity-graph.vercel.app/graph?username=sannikofficial&theme=tokyo-night" width="100%"/>
 </p>
