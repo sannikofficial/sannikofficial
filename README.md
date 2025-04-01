@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/github/stars/sannikofficial?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=8800ff" />
 </p>
 
-### 🛠 Мои инструменты
+### ⚙️ Мой стек
 
 <table>
   <tr>
