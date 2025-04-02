@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="http://sannikofficial.com/">
+  <a href="https://sannikofficial.com/github-copy">
     <img src="https://img.shields.io/badge/Copy-ff00b7?style=for-the-badge&logo=files&logoColor=white" />
   </a>
   <a href="README.md">
