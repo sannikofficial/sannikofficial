@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h1 align="left">👋 Hi! I'm Evgeny</h1>
+<h1 align="left">👋 Hi! I'm Evgenii</h1>
 
 <p align="left">
   🔬 Data Scientist • 📊 Analytics Architect • 🤖 AI Engineer • 🌍 Traveler • 🧭 Data Strategist of the Future
