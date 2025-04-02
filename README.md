@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://sannikofficial.com/github-copy">
-    <img src="https://img.shields.io/badge/Copy-ff00b7?style=for-the-badge&logo=files&logoColor=white" />
+    <img src="https://img.shields.io/badge/Copy this template-ff00b7?style=for-the-badge&logo=files&logoColor=white" />
   </a>
   <a href="README.md">
     <img src="https://img.shields.io/badge/English version-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
