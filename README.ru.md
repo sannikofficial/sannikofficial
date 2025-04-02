@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/Копировать этот шаблон-ff00b7?style=for-the-badge&logo=files&logoColor=white" />
   </a>
   <a href="README.md">
-    <img src="https://img.shields.io/badge/English version-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
+    <img src="https://img.shields.io/badge/Английский язык-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
   </a>
   <a href="README.ru.md">
     <img src="https://img.shields.io/badge/Русский язык-8800ff?style=for-the-badge&logo=googletranslate&logoColor=white" />
