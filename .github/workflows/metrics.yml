@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 8 * * *"  # updated daily at 8:00 UTC
+    - cron: "0 * * * *"  # updated every hour
   workflow_dispatch:
 
 jobs:
