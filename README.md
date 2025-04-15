@@ -177,6 +177,8 @@
 <table width="100%">
   <tr>
     <td width="50%">
+      <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.indepth.svg" width="100%"/>
+      <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.pie.svg" width="100%"/>
       <img src="https://raw.githubusercontent.com/sannikofficial/sannikofficial/main/metrics.plugin.languages.svg" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannikofficial&layout=compact&theme=tokyonight" width="100%" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sannikofficial&theme=tokyonight" width="100%"/>
