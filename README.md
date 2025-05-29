@@ -10,34 +10,6 @@
   </a>
 </p>
 
-<h1 align="left">👋 Hi! I'm Evgenii</h1>
-
-<p align="left">
-  🔬 Data Scientist • 📊 Analytics Architect • 🤖 AI Engineer • 🌍 Traveler • 🧭 Data Strategist of the Future
-</p>
-
-### 🚀 About Me
-- 🧠 Specialization: AI, Machine Learning, Big Data, Data Science, LLM Interfaces  
-- 🛠 I build intelligent analytical systems — from personal dashboards to autonomous business tools  
-- 📊 I design ecosystems: from data → to decisions, from ideas → to dashboards  
-- 🌐 Personal site with tools and case studies: **[sannikofficial.com](https://sannikofficial.com/github-profile)**  
-- 🧭 My goal — to make complex data understandable, and AI — accessible, transparent, and human-friendly.
-
-### 📍 Focus Areas
-- 🤖 LLM integrations and AI agents — designing interactive neural interfaces and agent pipelines
-- 📈 Analytics automation — creating self-updating dashboards and career/digital life trackers
-- 🌐 Geoanalytics — building travel dashboards, visualizing movements and cultural paths
-- 🧬 Explainable & Ethical AI — using SHAP, LIME, Fairlearn for transparent models
-- 📡 Low-code AI solutions — democratizing analytics: from Streamlit to Gradio
-- 🛡 Honest & open AI — leveraging open data, documenting models, and focusing on ethics
-
-### 🌱 What I Value
-- 💬 Open to collaborations and joint projects
-- 🚀 Love sharing knowledge, building open source solutions, and exploring new directions
-- 📈 Believe in the power of meta-analytics: tracking skills, growth, and career vectors
-
-*💬 Let's connect, fork, or chat — I'm always open to new ideas and partnerships!*
-
 ---
 
 <p align="left">
