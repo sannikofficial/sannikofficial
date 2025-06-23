@@ -1,11 +1,3 @@
-<p align="right">
-  <a href="https://sannikofficial.com/github-copy">
-    <img src="https://img.shields.io/badge/Copy this template-ff00b7?style=for-the-badge&logo=files&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="left">
   <a href="https://sannikofficial.com/github-experience">
     <img src="https://img.shields.io/badge/📊 MY SKILLS-8800ff?style=for-the-badge&logo=bar-chart&logoColor=white" />
@@ -16,6 +8,9 @@
   <img src="https://img.shields.io/badge/Repos-20-8800ff?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/github/followers/sannikofficial?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=8800ff" />
   <img src="https://komarev.com/ghpvc/?username=sannikofficial&label=Profile%20views&color=8800ff&style=for-the-badge" />
+  <a href="https://sannikofficial.com/github-copy">
+    <img src="https://img.shields.io/badge/Copy this template-ff00b7?style=for-the-badge&logo=files&logoColor=white" />
+  </a>
 </p>
 
 ---
