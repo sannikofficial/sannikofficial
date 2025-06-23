@@ -9,8 +9,6 @@
   </a>
 </p>
 
----
-
 ### 📈 GitHub Statistics
 <table width="100%">
   <tr>
