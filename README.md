@@ -9,14 +9,12 @@
   </a>
 </p>
 
-### 📊 Activity schedule
-<p align="left">
-  <img src="https://github-activity-graph.vercel.app/graph?username=sannikofficial&theme=tokyo-night" width="100%"/>
-</p>
-
----
-
 ### 🏆 Достижения GitHub
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sannikofficial&theme=algolia&no-bg=true" width="100%"/>
+</p>
+---
+### 📊 Activity schedule
+<p align="left">
+  <img src="https://github-activity-graph.vercel.app/graph?username=sannikofficial&theme=tokyo-night" width="100%"/>
 </p>
