@@ -8,8 +8,3 @@
     <img src="https://img.shields.io/badge/Profile design-ff00b7?style=for-the-badge&logo=files&logoColor=white" />
   </a>
 </p>
-
-### 🏆 Достижения GitHub
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sannikofficial&theme=algolia&no-bg=true" width="100%"/>
-</p>
